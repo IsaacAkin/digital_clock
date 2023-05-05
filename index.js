@@ -29,4 +29,4 @@ function updateClock() {
     // 1000ms = 1 second
 }
 
-updateClock()
+updateClock();
